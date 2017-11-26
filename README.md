@@ -1,4 +1,5 @@
-PLEASE set the KDIR first for this to work
+PLEASE set the KDIR first for this to work.
+
 In the makefile, after the realpath, enter the path to your linux kernel source
 `KDIR=$(shell realpath ~/kp/)`
 
@@ -13,5 +14,6 @@ then using minicom
 
 
 `minicom -D /dev/pts/4`
+
 The number may varry ...
 
