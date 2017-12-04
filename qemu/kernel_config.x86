@@ -1,4 +1,4 @@
-# CONFIG_64BIT is not set
+CONFIG_64BIT=y
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_CROSS_MEMORY_ATTACH is not set
 # CONFIG_USELIB is not set
