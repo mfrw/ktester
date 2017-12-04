@@ -17,3 +17,10 @@ then using minicom
 
 The number may varry ...
 
+Dependency:
+
+build-essential
+qemu-system-x86
+qemu-system-arm // if you care about arm
+kvm 
+minicom
